@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="restaurantdetails"
-            type="com.ameer.doordashlite.restaurants.data.models.RestaurantDetail" />
+            type="com.ameer.deliverylite.restaurants.data.models.RestaurantDetail" />
     </data>
     <androidx.cardview.widget.CardView
         android:layout_margin="3dp"

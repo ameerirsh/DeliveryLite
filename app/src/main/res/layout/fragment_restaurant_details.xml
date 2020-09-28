@@ -6,7 +6,7 @@
         <import type="android.view.View" />
         <variable
             name="restaurantdetail"
-            type="com.ameer.doordashlite.restaurants.data.models.RestaurantDetail" />
+            type="com.ameer.deliverylite.restaurants.data.models.RestaurantDetail" />
     </data>
 
         <androidx.constraintlayout.widget.ConstraintLayout
